@@ -4,12 +4,14 @@
 title:               Ed.
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+url:                 'http://In-Sung-Baek00.github.io'
+baseurl:             ''
 
 # About/contact
+
+remote_theme : elotroalex/ed
 author:
-  name:              Alex Gil
+  name:              In-Sung-Baek
   url:               https://twitter.com/elotroalex
   email:             colibri.alex@gmail.com
 
